@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #272525;
+    border-color: #f4c542;
+}
+
+.main{
+    color: white;
+    font-size: larger;
+}
+
+.searchbox input{
+    background-color: #dcdcdc;
+    width: 10%;
+    height:5%; 
+    margin-right: 5%;
+}
+.intro{
+    color: white;
+    text-align: left ;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.intro h2 {
+  font-size: 28px;  
+  font-weight: 600;
+  margin: 0;
+}
+
+.changecolor {
+  color: #f4c542;   
+  font-size: 42px;    
+  font-weight: 700;
+}
+
+.intro p {
+  font-size: 20px;
+  margin-top: 8px;
+  color: #dcdcdc;
+  line-height: 1.5;
+}
+
+.button button{
+    border-color: #f4c542;
+    color: #f4c542;
+    background-color: #494545;
+    height: 25px;
+    width: 100px;
+    margin-top: 25px;
+    margin-left: 10%;
+    font-size: 10px;
+}
+
+.About{
+    color: #dcdcdc;
+    margin-left:8%;
+    margin-top:20%;
+}
+
+.about{
+    color: yellow;
+}
